@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Usage:
-    morphagene_onset3.py -w <inputwavfile> -o <outputfile> -s <splicecount>
+    morphagene_onset.py -w <inputwavfile> -o <outputfile> -s <splicecount>
     
 Use the Superflux onset detection algorithm with backtracking to generate 
     splice locations.
